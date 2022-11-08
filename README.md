@@ -1,2 +1,3 @@
 # react-event-emitter
-Created with CodeSandbox
+
+react项目事件总线
